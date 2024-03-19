@@ -8,9 +8,10 @@
 ***
 
 单行代码
-'print("hello world!")'
+`print("hello world!")`
 多行代码指定语言
 ```R
 print ("hello world!")
 library(didyverse)
 ```
+`print("你好，世界！")`
